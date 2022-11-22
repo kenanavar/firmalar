@@ -1,14 +1,11 @@
 <html>
 <body>
 
-<h1>TURA Kft. 
-  <br>
-    <br>
-  1239 Budapest, <br> 
-  Grassalkovich út 255. K10. ép. I. em.
-  <br>
-    <br>
-  Adószám: 14050187-2-43
+<br>
  </h1>
+<p><a href="https://kenanavar.github.io/ceginfo/"> <strong>Tura Kft. </strong> </a></p>
+<p><a href="https://kenanavar.github.io/ceginfo/"> <strong>Tugra Kft. </strong> </a></p>
+
+
 </body>
 </html>
